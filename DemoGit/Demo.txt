@@ -1,2 +1,3 @@
 Đây là tệp Demo.txt.
-Nội dung ở trên
+Nội dung đầu tiên 
+Nội dung thứ hai
