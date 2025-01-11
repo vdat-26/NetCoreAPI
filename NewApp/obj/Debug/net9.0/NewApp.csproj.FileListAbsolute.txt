@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Net_Core\NewApp\bin\Debug\net9.0\NewApp.exe
+C:\Users\HP\Documents\Net_Core\NewApp\bin\Debug\net9.0\NewApp.deps.json
+C:\Users\HP\Documents\Net_Core\NewApp\bin\Debug\net9.0\NewApp.runtimeconfig.json
+C:\Users\HP\Documents\Net_Core\NewApp\bin\Debug\net9.0\NewApp.dll
+C:\Users\HP\Documents\Net_Core\NewApp\bin\Debug\net9.0\NewApp.pdb
+C:\Users\HP\Documents\Net_Core\NewApp\obj\Debug\net9.0\NewApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Net_Core\NewApp\obj\Debug\net9.0\NewApp.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Net_Core\NewApp\obj\Debug\net9.0\NewApp.AssemblyInfo.cs
+C:\Users\HP\Documents\Net_Core\NewApp\obj\Debug\net9.0\NewApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Net_Core\NewApp\obj\Debug\net9.0\NewApp.dll
+C:\Users\HP\Documents\Net_Core\NewApp\obj\Debug\net9.0\refint\NewApp.dll
+C:\Users\HP\Documents\Net_Core\NewApp\obj\Debug\net9.0\NewApp.pdb
+C:\Users\HP\Documents\Net_Core\NewApp\obj\Debug\net9.0\NewApp.genruntimeconfig.cache
+C:\Users\HP\Documents\Net_Core\NewApp\obj\Debug\net9.0\ref\NewApp.dll
