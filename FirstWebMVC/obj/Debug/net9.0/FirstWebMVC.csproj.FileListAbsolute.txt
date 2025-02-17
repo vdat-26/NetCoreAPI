@@ -1,3 +1,11 @@
+C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.AssemblyInfo.cs
+C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.RazorAssemblyInfo.cache
+C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.RazorAssemblyInfo.cs
+C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.sourcelink.json
 C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\bin\Debug\net9.0\appsettings.json
 C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\bin\Debug\net9.0\FirstWebMVC.staticwebassets.runtime.json
@@ -7,14 +15,6 @@ C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\bin\Debug\net9.0\FirstWebMVC.deps
 C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\bin\Debug\net9.0\FirstWebMVC.runtimeconfig.json
 C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\bin\Debug\net9.0\FirstWebMVC.dll
 C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\bin\Debug\net9.0\FirstWebMVC.pdb
-C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.AssemblyInfoInputs.cache
-C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.AssemblyInfo.cs
-C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.csproj.CoreCompileInputs.cache
-C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.RazorAssemblyInfo.cache
-C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.RazorAssemblyInfo.cs
-C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.sourcelink.json
 C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\obj\Debug\net9.0\scopedcss\bundle\FirstWebMVC.styles.css
 C:\Users\HP\Documents\Net_Core_API\FirstWebMVC\obj\Debug\net9.0\scopedcss\projectbundle\FirstWebMVC.bundle.scp.css
