@@ -1,0 +1,17 @@
+<h2>Tính Tiền Hóa Đơn</h2>
+
+<form asp-action="Index" method="post">
+    <label>Nhập số lượng:</label>
+    <input type="number" name="Quantity" step="1" required />
+
+    <label>Nhập đơn giá:</label>
+    <input type="number" name="UnitPrice" step="0.01" required />
+
+    <button type="submit">Tính Tiền</button>
+</form>
+
+@if (ViewBag.TotalPrice != null)
+{
+    <h3>Kết quả:</h3>
+    <p>Tổng tiền hóa đơn: <strong>@ViewBag.TotalPrice</strong> VNĐ</p>
+}

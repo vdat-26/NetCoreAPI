@@ -1,0 +1,22 @@
+@model FirstWebMVC.Models.ScoreModel
+
+<h2>Tính Điểm Môn Học</h2>
+
+<form asp-action="Index" method="post">
+    <label>Nhập điểm A:</label>
+    <input type="number" name="A" step="0.1" required />
+
+    <label>Nhập điểm B:</label>
+    <input type="number" name="B" step="0.1" required />
+
+    <label>Nhập điểm C:</label>
+    <input type="number" name="C" step="0.1" required />
+
+    <button type="submit">Tính Điểm</button>
+</form>
+
+@if (ViewBag.FinalScore != null)
+{
+    <h3>Kết quả:</h3>
+    <p>Điểm môn học: <strong>@ViewBag.FinalScore</strong></p>
+}

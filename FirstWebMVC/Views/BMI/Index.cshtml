@@ -4,10 +4,10 @@
 
 <form asp-action="Index" method="post">
     <label>Nhập cân nặng (kg):</label>
-    <input type="number" name="Weight" step="0.1" required />
+    <input type="number" asp-for="Weight" step="0.1" required />
 
     <label>Nhập chiều cao (m):</label>
-    <input type="number" name="Height" step="0.01" required />
+    <input type="number" asp-for="Height" step="0.01" required />
 
     <button type="submit">Tính BMI</button>
 </form>
