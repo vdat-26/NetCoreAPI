@@ -1,0 +1,7 @@
+@model Person
+
+<h2>Bạn có chắc muốn xóa?</h2>
+<form asp-action="Delete">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit">Xóa</button>
+</form>

@@ -1,0 +1,10 @@
+@model Person
+
+<h2>Thêm mới Person</h2>
+<form asp-action="Create">
+    <label>Họ tên:</label>
+    <input asp-for="FullName" />
+    <label>Địa chỉ:</label>
+    <input asp-for="Address" />
+    <button type="submit">Lưu</button>
+</form>

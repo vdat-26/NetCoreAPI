@@ -5,13 +5,13 @@ namespace FirstWebMVC.Controllers
 {
     public class BMIController : Controller
     {
-        // GET: Hiển thị form nhập dữ liệu
+        
         public IActionResult Index()
         {
             return View();
         }
 
-        // POST: Nhận dữ liệu từ form, tính toán BMI và trả về kết quả
+        
         [HttpPost]
         public IActionResult Index(BMIModel model)
         {

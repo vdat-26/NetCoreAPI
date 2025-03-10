@@ -1,0 +1,22 @@
+@model IEnumerable<Person>
+
+<h2>Danh sách Person</h2>
+<a asp-action="Create">Thêm mới</a>
+<table>
+    <tr>
+        <th>Họ tên</th>
+        <th>Địa chỉ</th>
+        <th>Hành động</th>
+    </tr>
+    @foreach (var person in Model)
+    {
+        <tr>
+            <td>@person.FullName</td>
+            <td>@person.Address</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@person.Id">Sửa</a> |
+                <a asp-action="Delete" asp-route-id="@person.Id">Xóa</a>
+            </td>
+        </tr>
+    }
+</table>

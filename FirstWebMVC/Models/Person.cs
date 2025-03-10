@@ -1,20 +1,16 @@
-using System.ComponentModel.DataAnnotations; // Thư viện hỗ trợ validation
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace FirstWebMVC.Models
 {
+    [Table("Person")]
     public class Person
     {
-        [Key] // Đánh dấu PersonId là khóa chính
-        public string? PersonId { get; set; }
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)] // Tự động tăng ID
+        public int Id { get; set; }  // Thêm dòng này để dùng đúng chuẩn ASP.NET MVC
 
-        [Required(ErrorMessage = "Họ và tên không được để trống")]
-        [StringLength(100, ErrorMessage = "Tên không được dài hơn 100 ký tự")]
         public string? FullName { get; set; }
-
-        [Required]
         public string? Address { get; set; }
-
-        [EmailAddress(ErrorMessage = "Email không hợp lệ")]
-        public string? Email { get; set; }
     }
 }
